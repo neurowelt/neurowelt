@@ -14,7 +14,8 @@
 \> File & folder avid organizer
 
 \> Currently working on:<br>
-  :bulb:  Using EEG to guide image generation process
+  🏃‍  Mesh-based animation with Stable Diffusion<br>
+  💡  Using EEG to guide image generation process
 
 ### Let's connect!
 
