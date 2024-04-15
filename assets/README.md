@@ -1,11 +1,11 @@
 ##
 
 ![Conference Room](./people.png)
-<center>Conference Room</center>
+<h3 align="center">Conference Room</h3>
 
 ## 
 
 ![Matrix](./matrix.png)
-<center>Matrix</center>
+<h3 align="center">Matrix</h3>
 
 ##
