@@ -1,1 +1,1 @@
-![People](./assets/people.png)
+![Matrix](./assets/matrix.png)
